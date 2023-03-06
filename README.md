@@ -10,6 +10,7 @@ Feb/27/2023: Notice: This Web-page does not support any version before IE8, and 
 March/2/2023: Well, although I have not update on github resp of this project, I am almost done the vue part (at least the sign in page and the axios) and I mean it should be running ok on a static host page (like the github.io), I will update it in few days. Yet the problem is the change over time are always changing in the real world and what I want is this dashboard can display the chart by the leatest data from the tooling machine or CNC. So yes, I need a server to do that, and more than that, I need to bulid a framework on the serve to send or recieve the mock data from the dashboard. To sum up, I am going to spend my time on C# and Asp.Net MVC in next few months. I mean, I may go rent a cloud server to host this if I can really make this change over time web-monitor work from backend to the frontend. Best effort and luck to me :) .
 
 March/6/2023: The login page and the interface structure are done, the backend mock server will be started after apply the echarts to the dashboard under each section, and the version of Vue.js has donwgrade to Vue 2.
+
 The login page: 
 ![LoginPage](https://user-images.githubusercontent.com/98981724/223130403-369ecf68-edc0-4db9-bdff-24e46ed546de.png)
 
