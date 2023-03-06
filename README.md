@@ -11,7 +11,8 @@ March/2/2023: Well, although I have not update on github resp of this project, I
 
 March/6/2023: The login page and the interface structure are done, the backend mock server will be started after apply the echarts to the dashboard under each section, and the version of Vue.js has donwgrade to Vue 2.
 The login page: 
-![Uploading LoginPage.png…]()
+![LoginPage](https://user-images.githubusercontent.com/98981724/223130403-369ecf68-edc0-4db9-bdff-24e46ed546de.png)
+
 
 The interface structure: 
 ![userinterface](https://user-images.githubusercontent.com/98981724/223130018-d5be92e3-8d13-4188-a9ff-6667d73aeade.png)
