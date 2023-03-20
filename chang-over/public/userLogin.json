@@ -1,8 +1,0 @@
-{
-  "code":200,
-  "message":"sending login request",
-  "data":{
-    "token":"admin",
-    "flag":true
-  }
-}
