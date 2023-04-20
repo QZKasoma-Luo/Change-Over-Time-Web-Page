@@ -1,5 +1,7 @@
 # ChangeOver Dashboard
-## English README (A Chinese Version README is Below, 中文版本的使用文档在下方)
+[English](#english-version) | [中文](#中文版本)
+
+#english-version
 ## Introduction
 
 The ChangeOver Dashboard is a web application that uses Vue CLI and Web.Net to simulate a dashboard that retrieves the status of factory machines and the time required to equip a production line for assembling products from an API. To learn more about what changeover time is, you can visit this link: [What is Changeover Time?](https://www.indeed.com/career-advice/career-development/what-is-changeover-time#:~:text=Updated%20June%2024%2C%202022,money%20and%20produce%20more%20products)
@@ -26,7 +28,7 @@ This project is currently maintained by me(QZKasoma-Luo) only.
 
 ## License
 
-This software is licensed under the MIT License, allowing anyone to use it.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the license.
 
 ## Contact
 
@@ -38,8 +40,8 @@ If you have any questions or need support, please contact luo.kasoma@gmail.com.
 
 If you're visiting from Mainland China, please watch the demo video here: (To Be Determined)
 
-
-# 切换生产时间看板
+#中文版本
+## 切换生产时间看板
 
 ## 项目简介
 
@@ -67,8 +69,7 @@ If you're visiting from Mainland China, please watch the demo video here: (To Be
 
 ## 许可证
 
-本软件在MIT许可证下授权，允许任何人使用。
-
+本项目在MIT许可证下授权。您可以在许可证条款下自由使用、修改和分发本软件。
 ## 联系方式
 
 如果您有任何问题或需要支持，请联系 luo.kasoma@gmail.com。
