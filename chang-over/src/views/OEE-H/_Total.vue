@@ -1,6 +1,12 @@
 <template>
   <div v-loading="loading">
     <!-- Using el-col to abrest the Gauges, more info refers to Element UI and Echarts -->
+    <el-alert
+      title="All the data displayed is for the purpose of testing the Dashboard and Api, and the data does not contain any meaning. If you find that the test data is similar or identical to your or your organization's data, it is purely coincidental. Secondly, please don't believe any information on the test data, all test data are fabricated."
+      type="error"
+      effect="dark"
+    >
+    </el-alert>
     <div id="gauags_section">
       <el-col :span="8">
         <div
@@ -183,7 +189,7 @@ export default {
     this.fetchTOP_LOW_PERFORMANCE_DATA();
     setTimeout(() => {
       this.loading = false;
-    }, 2000);
+    }, 3000);
   },
 
   methods: {
@@ -225,7 +231,7 @@ export default {
             console.error(error);
           })
           .finally(() => {
-            setTimeout(this.updateChart, 3000); //fetch the least data from the API per 5sec by using setTimeout
+            setTimeout(this.updateChart, 4000); //fetch the least data from the API per 5sec by using setTimeout
           });
       } catch (error) {
         console.error(error);
