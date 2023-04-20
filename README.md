@@ -1,7 +1,7 @@
 # ChangeOver Dashboard
 [English](#english-version) | [中文](#中文版本)
 
-#english-version
+##english-version
 ## Introduction
 
 The ChangeOver Dashboard is a web application that uses Vue CLI and Web.Net to simulate a dashboard that retrieves the status of factory machines and the time required to equip a production line for assembling products from an API. To learn more about what changeover time is, you can visit this link: [What is Changeover Time?](https://www.indeed.com/career-advice/career-development/what-is-changeover-time#:~:text=Updated%20June%2024%2C%202022,money%20and%20produce%20more%20products)
@@ -40,7 +40,7 @@ If you have any questions or need support, please contact luo.kasoma@gmail.com.
 
 If you're visiting from Mainland China, please watch the demo video here: (To Be Determined)
 
-#中文版本
+##中文版本
 ## 切换生产时间看板
 
 ## 项目简介
