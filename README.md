@@ -59,7 +59,7 @@ If you're visiting from Mainland China, please watch the demo video here: (To Be
 
 执行 `npm run serve` 后，可以在开发环境下的主流浏览器中使用和查看动态的CNC和生产线机器状态。要在生产环境中部署，只需部署到服务器并通过相应的API分发数据即可。
 
-**注意**：要测试此软件，您需要与配套API一起使用，因为软件显示的信息都是从API抓取过来的。API的GitHub仓库地址为：Asp.Net MVC for change-over-time-dashboard(https://github.com/QZKasoma-Luo/Asp.Net-MVC-for-change-over-time-dashboard)。请在启动API的情况下再运行此软件，否则您将无法看见仪表板上的数据。
+**注意**：要测试此软件，您需要与配套API一起使用，因为软件显示的信息都是从API抓取过来的。API的GitHub仓库地址为：[Asp.Net MVC for change-over-time-dashboard](https://github.com/QZKasoma-Luo/Asp.Net-MVC-for-change-over-time-dashboard)。请在启动API的情况下再运行此软件，否则您将无法看见仪表板上的数据。
 
 ## 贡献指南
 
