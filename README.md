@@ -1,25 +1,59 @@
-# Change Over Time Web Page by the Status of the Machine
- This Project is Written by Vue.js which monitor the change over time of the machine. 
-Feb/13/2023: If you wonder what is the change over time, here is the explaination: https://www.indeed.com/career-advice/career-development/what-is-changeover-time
+English README(A Chinese Version README is below, 中文说明文档在下方):
 
-By running this web pages, you need to install node.js (version 16.xx) and run npm install in the folder change-over-time before you run npm run serve.
-After the npm run serve has finshed, you can open the web-page by going to the local host
+ChangeOver Dashboard
+Introduction
+The ChangeOver Dashboard is a web application that uses Vue CLI and Web.Net to simulate a dashboard that retrieves the status of factory machines and the time required to equip a production line for assembling products from an API. To learn more about what changeover time is, you can visit this link: What is Changeover Time?
 
-Feb/27/2023: Notice: This Web-page does not support any version before IE8, and the support of IE has been stoped in June 2022 that this web-page should work on your computer web browser (please do not say that you are using IE mode in edge to browse this..., you have edge already! Use edge!! lol)
+Technologies and Dependencies
+Node.js (v16 or higher)
+Element UI
+Echarts
+Installation and Configuration
+Before running the project, please make sure to install Node.js. Then, run npm install to download the necessary dependencies.
 
-March/2/2023: Well, although I have not update on github resp of this project, I am almost done the vue part (at least the sign in page and the axios) and I mean it should be running ok on a static host page (like the github.io), I will update it in few days. Yet the problem is the change over time are always changing in the real world and what I want is this dashboard can display the chart by the leatest data from the tooling machine or CNC. So yes, I need a server to do that, and more than that, I need to bulid a framework on the serve to send or recieve the mock data from the dashboard. To sum up, I am going to spend my time on C# and Asp.Net MVC in next few months. I mean, I may go rent a cloud server to host this if I can really make this change over time web-monitor work from backend to the frontend. Best effort and luck to me :) .
+Usage
+After executing npm run serve, you can use and view the dynamic CNC and production line machine status in mainstream browsers in the development environment. To deploy in a production environment, simply deploy to a server and distribute data through the corresponding API.
 
-March/6/2023: The login page and the interface structure are done, the backend mock server will be started after apply the echarts to the dashboard under each section, and the version of Vue.js has donwgrade to Vue 2.
+Contribution
+This project is currently maintained by a single developer.
 
-The login page: 
-![LoginPage](https://user-images.githubusercontent.com/98981724/223130403-369ecf68-edc0-4db9-bdff-24e46ed546de.png)
+License
+This software is licensed under the MIT License, allowing anyone to use it.
 
+Contact
+If you have any questions or need support, please contact luo.kasoma@gmail.com.
 
-The interface structure: 
-![userinterface](https://user-images.githubusercontent.com/98981724/223130018-d5be92e3-8d13-4188-a9ff-6667d73aeade.png)
+Demo Video
+Watch the demo video on YouTube
 
+If you're visiting from Mainland China, please watch the demo video here: (To Be Determined)
 
-The Echarts and the Navigation bar:
-![dashboard ](https://user-images.githubusercontent.com/98981724/223130071-cb4683dc-f417-476c-af6a-7e6c303a2b76.png)
+Chinese README:
 
-The login page will let you pass as long as you entered something in both columns since the mock server is not ready yet. and it will send the request to the mock server to check the account info once the mock server is ready.
+切换生产时间看板
+项目简介
+切换生产时间看板是一个使用Vue CLI和Web.Net模拟从API获取工厂机器状态以及装配生产线所需设备时间的Web应用程序。如果您对更换时间有疑问，可以访问以下链接了解更多信息：什么是更换时间？
+
+技术栈和依赖
+Node.js (v16 或更高)
+Element UI
+Echarts
+安装和配置
+在运行项目之前，请确保安装Node.js。然后，运行 npm install 以下载必要的依赖项。
+
+使用说明
+执行 npm run serve 后，可以在开发环境下的主流浏览器中使用和查看动态的CNC和生产线机器状态。要在生产环境中部署，只需部署到服务器并通过相应的API分发数据即可。
+
+贡献指南
+该项目目前由一个开发者维护。
+
+许可证
+本软件在MIT许可证下授权，允许任何人使用。
+
+联系方式
+如果您有任何问题或需要支持，请联系 luo.kasoma@gmail.com。
+
+演示视频
+在YouTube上观看演示视频
+
+如果您从中国访问，那么您可以从这个链接观看演示视频：（待定）
