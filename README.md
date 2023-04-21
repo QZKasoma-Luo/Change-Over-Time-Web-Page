@@ -38,7 +38,7 @@ If you have any questions or need support, please contact luo.kasoma@gmail.com.
 
 [Watch the demo video on YouTube](https://www.youtube.com/watch?v=5WxLM3IIeLc)
 
-If you're visiting from Mainland China, please watch the demo video here: (To Be Determined)
+If you're visiting from Mainland China, please watch the demo video here: 【Trail Run of Change over Dashboard-哔哩哔哩】 https://b23.tv/MAIQCLR
 
 ## 中文版本
 ### 项目简介
@@ -76,4 +76,4 @@ If you're visiting from Mainland China, please watch the demo video here: (To Be
 
 [在YouTube上观看演示视频](https://www.youtube.com/watch?v=5WxLM3IIeLc)
 
-如果您从中国大陆访问，请使用这个链接来观看演示视频：（视频正在审核中，待定）
+如果您从中国大陆访问，请使用这个链接来观看演示视频：【Trail Run of Change over Dashboard-哔哩哔哩】 https://b23.tv/MAIQCLR
